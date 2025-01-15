@@ -1,0 +1,3 @@
+# This file was created by Wireshark. Edit with care.
+!@New coloring rule@dst_p@[0,43690,0][65535,65535,65535]
+!@New coloring rule@sctp@[43690,0,0][65535,65535,65535]
